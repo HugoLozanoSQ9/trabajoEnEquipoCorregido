@@ -144,7 +144,7 @@ body{
     border-top-left-radius: 20px;
   }
 
-
+/* Se debe quitar con display:none; */
 @media screen and (max-width: 768px) {
     .hhijo{
         
@@ -188,7 +188,7 @@ body{
     
     }
     .hhijo2{
-     display: none;
+     display: 0%;
     }
 }
 
